@@ -1,0 +1,51 @@
+circuitId,circuitRef,name,location,country,alt,url
+1,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,10,http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit
+2,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,18,http://en.wikipedia.org/wiki/Sepang_International_Circuit
+3,bahrain,Bahrain International Circuit,Sakhir,Bahrain,7,http://en.wikipedia.org/wiki/Bahrain_International_Circuit
+4,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,109,http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya
+5,istanbul,Istanbul Park,Istanbul,Turkey,130,http://en.wikipedia.org/wiki/Istanbul_Park
+6,monaco,Circuit de Monaco,Monte-Carlo,Monaco,7,http://en.wikipedia.org/wiki/Circuit_de_Monaco
+7,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,13,http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve
+8,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,228,http://en.wikipedia.org/wiki/Circuit_de_Nevers_Magny-Cours
+9,silverstone,Silverstone Circuit,Silverstone,UK,153,http://en.wikipedia.org/wiki/Silverstone_Circuit
+10,hockenheimring,Hockenheimring,Hockenheim,Germany,103,http://en.wikipedia.org/wiki/Hockenheimring
+11,hungaroring,Hungaroring,Budapest,Hungary,264,http://en.wikipedia.org/wiki/Hungaroring
+12,valencia,Valencia Street Circuit,Valencia,Spain,4,http://en.wikipedia.org/wiki/Valencia_Street_Circuit
+13,spa,Circuit de Spa-Francorchamps,Spa,Belgium,401,http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps
+14,monza,Autodromo Nazionale di Monza,Monza,Italy,162,http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza
+15,marina_bay,Marina Bay Street Circuit,Marina Bay,Singapore,18,http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit
+16,fuji,Fuji Speedway,Oyama,Japan,583,http://en.wikipedia.org/wiki/Fuji_Speedway
+17,shanghai,Shanghai International Circuit,Shanghai,China,5,http://en.wikipedia.org/wiki/Shanghai_International_Circuit
+18,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,785,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace
+19,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,223,http://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway
+20,nurburgring,Nürburgring,Nürburg,Germany,578,http://en.wikipedia.org/wiki/N%C3%BCrburgring
+21,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,37,http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari
+22,suzuka,Suzuka Circuit,Suzuka,Japan,45,http://en.wikipedia.org/wiki/Suzuka_Circuit
+23,osterreichring,A1-Ring,Spielburg,Austria,678,http://en.wikipedia.org/wiki/A1-Ring
+24,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,3,http://en.wikipedia.org/wiki/Yas_Marina_Circuit
+25,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,8,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez
+26,jerez,Circuito de Jerez,Jerez de la Frontera,Spain,37,http://en.wikipedia.org/wiki/Circuito_Permanente_de_Jerez
+27,estoril,Autódromo do Estoril,Estoril,Portugal,130,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_do_Estoril
+28,okayama,Okayama International Circuit,Okayama,Japan,266,http://en.wikipedia.org/wiki/TI_Circuit
+29,adelaide,Adelaide Street Circuit,Adelaide,Australia,58,http://en.wikipedia.org/wiki/Adelaide_Street_Circuit
+30,kyalami,Kyalami,Midrand,South Africa,1460,http://en.wikipedia.org/wiki/Kyalami
+31,donington,Donington Park,Castle Donington,UK,88,http://en.wikipedia.org/wiki/Donington_Park
+32,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,2227,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez
+33,phoenix,Phoenix street circuit,Phoenix,USA,345,http://en.wikipedia.org/wiki/Phoenix_street_circuit
+34,ricard,Circuit Paul Ricard,Le Castellet,France,432,http://en.wikipedia.org/wiki/Paul_Ricard_Circuit
+35,yeongam,Korean International Circuit,Yeongam County,Korea,0,http://en.wikipedia.org/wiki/Korean_International_Circuit
+36,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,1126,http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet
+37,detroit,Detroit Street Circuit,Detroit,USA,177,http://en.wikipedia.org/wiki/Detroit_street_circuit
+38,brands_hatch,Brands Hatch,Kent,UK,145,http://en.wikipedia.org/wiki/Brands_Hatch
+39,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,6,http://en.wikipedia.org/wiki/Circuit_Zandvoort
+40,zolder,Zolder,Heusden-Zolder,Belgium,36,http://en.wikipedia.org/wiki/Zolder
+41,dijon,Dijon-Prenois,Dijon,France,484,http://en.wikipedia.org/wiki/Dijon-Prenois
+42,dallas,Fair Park,Dallas,USA,139,http://en.wikipedia.org/wiki/Fair_Park
+43,long_beach,Long Beach,California,USA,12,"http://en.wikipedia.org/wiki/Long_Beach,_California"
+44,las_vegas,Las Vegas Street Circuit,Nevada,USA,639,"http://en.wikipedia.org/wiki/Las_Vegas,_Nevada"
+45,jarama,Jarama,Madrid,Spain,609,http://en.wikipedia.org/wiki/Circuito_Permanente_Del_Jarama
+46,watkins_glen,Watkins Glen,New York State,USA,485,http://en.wikipedia.org/wiki/Watkins_Glen_International
+47,anderstorp,Scandinavian Raceway,Anderstorp,Sweden,153,http://en.wikipedia.org/wiki/Scandinavian_Raceway
+48,mosport,Mosport International Raceway,Ontario,Canada,332,http://en.wikipedia.org/wiki/Mosport
+49,montjuic,Montjuïc,Barcelona,Spain,79,http://en.wikipedia.org/wiki/Montju%C3%AFc_circuit
+50,nivelles,Nivelles-Baulers,Brussels,Belgium,139,http://en.wikipedia.org/wiki/Nivelles-Baulers
