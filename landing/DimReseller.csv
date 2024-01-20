@@ -1,0 +1,104 @@
+ResellerKey,GeographyKey,ResellerAlternateKey,Phone,BusinessType,ResellerName,NumberEmployees,OrderFrequency,OrderMonth,FirstOrderYear,LastOrderYear,ProductLine,AddressLine1,AddressLine2,AnnualSales,BankName,MinPaymentType,MinPaymentAmount,AnnualRevenue,YearOpened
+1,637,AW00000001,245-555-0173,Value Added Reseller,A Bike Store,2,S,5,2011,2011,Road,2251 Elliot Avenue,,300000.0000,International Bank,,,30000.0000,1974
+2,635,AW00000002,170-555-0127,Specialty Bike Shop,Progressive Sports,10,A,5,2012,2013,Mountain,3207 S Grady Way,,800000.0000,International Security,1,,80000.0000,1976
+3,584,AW00000003,279-555-0130,Warehouse,Advanced Bike Components,40,Q,6,2011,2013,Road,12345 Sterling Avenue,,1500000.0000,Primary International,2,,150000.0000,1978
+4,572,AW00000004,710-555-0173,Value Added Reseller,Modular Cycle Systems,5,S,4,2011,2013,Road,800 Interchange Blvd.,Suite 2501,300000.0000,United Security,3,600.0000,30000.0000,1980
+5,322,AW00000005,828-555-0186,Specialty Bike Shop,Metropolitan Sports Supply,13,A,6,2012,2013,Road,482505 Warm Springs Blvd.,,800000.0000,Primary Bank & Reserve,,,80000.0000,1982
+6,303,AW00000006,244-555-0112,Warehouse,Aerobic Exercise Company,43,Q,6,2013,2013,Road,39933 Mission Oaks Blvd,,1500000.0000,Guardian Bank,1,,150000.0000,1984
+7,599,AW00000007,192-555-0173,Value Added Reseller,Associated Bikes,8,S,4,2011,2012,Mountain,5420 West 22500 South,,300000.0000,Reserve Security,2,,30000.0000,1986
+8,409,AW00000008,872-555-0171,Specialty Bike Shop,Exemplary Cycles,16,A,5,2013,2013,Touring,79945 Corporate Center Drive,,800000.0000,International Bank,3,600.0000,80000.0000,1988
+9,568,AW00000009,488-555-0130,Warehouse,Tandem Bicycle Store,46,Q,5,2012,2013,Mountain,3333 Micro Drive,,1500000.0000,International Security,3,1000.0000,150000.0000,1990
+10,44,AW00000010,150-555-0127,Value Added Reseller,Rural Cycle Emporium,11,S,6,2012,2013,Mountain,6388 Lake City Way,,800000.0000,Primary International,2,,80000.0000,1992
+11,96,AW00000011,926-555-0159,Specialty Bike Shop,Sharp Bikes,19,A,5,2011,2011,Mountain,52560 Free Street,,800000.0000,United Security,1,,80000.0000,1994
+12,96,AW00000012,112-555-0191,Warehouse,Bikes and Motorbikes,49,Q,5,2012,2013,Road,22580 Free Street,,1500000.0000,Primary Bank & Reserve,,,150000.0000,1996
+13,211,AW00000013,1 (11) 500 555-0127,Value Added Reseller,Country Parts Shop,14,S,,,,Road,"7033, rue de Longchamp",,800000.0000,Guardian Bank,1,,80000.0000,1998
+14,167,AW00000014,1 (11) 500 555-0167,Specialty Bike Shop,Bicycle Warehouse Inc.,22,A,6,2013,2013,Mountain,Karl Liebknecht str 299,,1000000.0000,Reserve Security,2,,100000.0000,2000
+15,6,AW00000015,1 (11) 500 555-0140,Warehouse,Budget Toy Store,52,Q,6,2013,2013,Mountain,25 Epping Road,,3000000.0000,International Bank,3,600.0000,300000.0000,2002
+16,247,AW00000016,1 (11) 500 555-0132,Value Added Reseller,Bulk Discount Store,17,S,6,2012,2013,Road,"93-2501, Blackfriars Road,",,800000.0000,International Security,,,80000.0000,2004
+17,605,AW00000017,497-555-0147,Specialty Bike Shop,Trusted Catalog Store,25,A,4,2010,2013,Mountain,9920 Picketts Line Road,,1000000.0000,Primary International,1,,100000.0000,2005
+18,474,AW00000018,440-555-0132,Warehouse,Catalog Store,55,Q,5,2011,2013,Mountain,855 East Main Avenue,,3000000.0000,United Security,2,,300000.0000,2003
+19,610,AW00000019,521-555-0195,Value Added Reseller,Center Cycle Shop,20,S,4,2012,2012,Road,99300 223rd Southeast,,1000000.0000,Primary Bank & Reserve,3,600.0000,100000.0000,2004
+20,622,AW00000020,582-555-0113,Specialty Bike Shop,Central Discount Store,28,A,6,2011,2013,Mountain,259826 Russell Rd. South,,1000000.0000,Guardian Bank,3,600.0000,100000.0000,1975
+21,584,AW00000021,928-555-0116,Warehouse,Chic Department Stores,58,Q,6,2012,2013,Mountain,90025 Sterling St,,3000000.0000,Reserve Security,2,,300000.0000,2003
+22,561,AW00000022,121-555-0121,Value Added Reseller,Travel Systems,19,S,5,2011,2013,Road,2505 Gateway Drive,,800000.0000,International Bank,1,,80000.0000,1979
+23,364,AW00000023,216-555-0122,Specialty Bike Shop,Bike World,31,A,6,2012,2013,Mountain,60025 Bollinger Canyon Road,,1500000.0000,International Security,,,150000.0000,2002
+24,376,AW00000024,926-555-0164,Warehouse,Eastside Department Store,61,Q,6,2012,2013,Road,9992 Whipple Rd,,3000000.0000,Primary International,1,,300000.0000,1983
+25,317,AW00000025,357-555-0161,Value Added Reseller,Coalition Bike Company,18,S,6,2012,2013,Mountain,Corporate Office,,800000.0000,United Security,2,,80000.0000,2001
+26,409,AW00000026,418-555-0115,Specialty Bike Shop,Stylish Department Stores,34,A,6,2011,2011,Road,1 Corporate Center Drive,,1500000.0000,Primary Bank & Reserve,3,600.0000,150000.0000,1987
+27,568,AW00000027,284-555-0185,Warehouse,Sports Sales and Rental,64,Q,4,2010,2013,Mountain,100 Fifth Drive,,3000000.0000,Guardian Bank,,,300000.0000,2000
+28,95,AW00000028,972-555-0163,Value Added Reseller,Commuter Bicycle Store,17,S,5,2013,2013,Touring,2575 Bloor Street East,,800000.0000,Reserve Security,1,,80000.0000,1991
+29,77,AW00000029,344-555-0144,Specialty Bike Shop,Cross-Country Riding Supplies,37,A,5,2011,2011,Mountain,Station E,,1500000.0000,International Bank,2,,150000.0000,1999
+30,110,AW00000030,783-555-0110,Warehouse,Cycle Merchants,67,Q,6,2012,2013,Road,575 Rue St Amable,,3000000.0000,International Security,3,600.0000,300000.0000,1995
+31,201,AW00000031,1 (11) 500 555-0198,Value Added Reseller,Wheels Inc.,16,S,5,2013,2013,Road,"21105, rue de Varenne",,800000.0000,Primary International,3,200.0000,80000.0000,1998
+32,177,AW00000032,1 (11) 500 555-0182,Specialty Bike Shop,Precision Gears Inc.,40,A,,,,Road,Roástr 2248,,1500000.0000,United Security,2,,150000.0000,1999
+33,6,AW00000033,1 (11) 500 555-0189,Warehouse,Global Sports Outlet,70,Q,6,2013,2013,Mountain,Ctrcrt Bus Pk/995-27 Paul St N,,3000000.0000,Primary Bank & Reserve,1,,300000.0000,1997
+34,272,AW00000034,1 (11) 500 555-0181,Value Added Reseller,Cycles Wholesaler & Mfg.,15,S,4,2012,2013,Touring,"Science Park South, Birchwood",Stanford House,800000.0000,Guardian Bank,,,80000.0000,2003
+35,555,AW00000035,623-555-0153,Specialty Bike Shop,Economic Parts Supply,43,A,,,,Road,2532 Fairgrounds Road,,1500000.0000,Reserve Security,1,,150000.0000,1996
+36,447,AW00000036,415-555-0147,Warehouse,Exotic Bikes,73,Q,5,2011,2013,Road,6900 William Richardson Ct.,,3000000.0000,International Bank,2,,300000.0000,2002
+37,633,AW00000037,724-555-0161,Value Added Reseller,Two Bike Shops,14,S,6,2012,2013,Road,35525-9th Street Sw,,800000.0000,International Security,3,600.0000,80000.0000,1995
+38,491,AW00000038,867-555-0114,Specialty Bike Shop,Finer Mart,46,A,6,2013,2013,Touring,640 South 994th St. W.,,1500000.0000,Primary International,,,150000.0000,2001
+39,477,AW00000039,377-555-0132,Warehouse,Fitness Hotel,76,Q,6,2012,2013,Road,74400 France Avenue South,,3000000.0000,United Security,1,,300000.0000,1994
+40,587,AW00000040,417-555-0182,Value Added Reseller,Journey Sporting Goods,13,S,5,2011,2011,Mountain,509 Nafta Boulevard,,800000.0000,Primary Bank & Reserve,2,,80000.0000,2000
+41,340,AW00000041,244-555-0127,Specialty Bike Shop,Distant Inn,49,A,4,2011,2013,Road,25001 Montague Expressway,,1500000.0000,Guardian Bank,3,600.0000,150000.0000,1993
+42,345,AW00000042,911-555-0165,Warehouse,Healthy Activity Store,79,Q,,,,Mountain,4460 Newport Center Drive,,3000000.0000,Reserve Security,3,1000.0000,300000.0000,1999
+43,599,AW00000043,482-555-0174,Value Added Reseller,Frugal Bike Shop,12,S,5,2012,2013,Mountain,2575 West 2700 South,,800000.0000,International Bank,2,,80000.0000,1992
+44,282,AW00000044,552-555-0141,Specialty Bike Shop,Games and Sport Supply Company,48,A,6,2013,2013,Touring,2525 Electrics Blvd.,,1500000.0000,International Security,1,,150000.0000,1998
+45,565,AW00000045,333-555-0113,Warehouse,Every Bike Shop,80,Q,5,2011,2013,Road,2550 High Street,,3000000.0000,Primary International,,,300000.0000,1991
+46,41,AW00000046,653-555-0159,Value Added Reseller,Gear-Shift Bikes Limited,11,S,12,2012,2012,Road,2512-4th Ave Sw,,800000.0000,United Security,1,,80000.0000,1997
+47,95,AW00000047,141-555-0172,Specialty Bike Shop,Greater Bike Store,47,A,6,2011,2013,Mountain,55 Lakeshore Blvd East,,1500000.0000,Primary Bank & Reserve,2,,150000.0000,1990
+48,106,AW00000048,164-555-0118,Warehouse,Grand Industries,81,Q,6,2013,2013,Touring,6333 Cote Vertu,,3000000.0000,Guardian Bank,3,600.0000,300000.0000,1996
+49,188,AW00000049,1 (11) 500 555-0181,Value Added Reseller,Neighborhood Bicycle Storehouse,10,S,6,2013,2013,Touring,"69, boulevard Tremblay",,800000.0000,Reserve Security,,,80000.0000,1989
+50,114,AW00000050,1 (11) 500 555-0112,Specialty Bike Shop,Hometown Riding Supplies,46,A,10,2013,2013,Mountain,Bundesallee 9571,Rechnungsstelle - C 035,1500000.0000,International Bank,1,,150000.0000,1995
+51,28,AW00000051,1 (11) 500 555-0133,Warehouse,Ideal Components,82,Q,6,2013,2013,Touring,2-252 Beauchamp Road,Botany Bay Industrial Estate,3000000.0000,International Security,2,,300000.0000,1988
+52,239,AW00000052,1 (11) 500 555-0155,Value Added Reseller,Instruments and Parts Company,9,S,6,2013,2013,Touring,"Phoenix Way, Cirencester",,300000.0000,Primary International,3,600.0000,30000.0000,1994
+53,454,AW00000053,479-555-0129,Specialty Bike Shop,Incomparable Bicycle Store,45,A,6,2013,2013,Touring,99 Edgewater Drive,,1500000.0000,United Security,3,600.0000,150000.0000,1987
+54,520,AW00000054,140-555-0128,Warehouse,Larger Cycle Shop,83,Q,6,2011,2013,Road,Attn: Accounts Payable,44 Main Place,3000000.0000,Primary Bank & Reserve,2,,300000.0000,1993
+55,544,AW00000055,932-555-0163,Value Added Reseller,Kickstands and Accessories Company,8,S,6,2013,2013,Touring,25300 Biddle Road,,300000.0000,Guardian Bank,1,,30000.0000,1986
+56,547,AW00000056,461-555-0118,Specialty Bike Shop,Latest Accessories Sales,44,A,5,2012,2013,Road,Gateway,,1500000.0000,Reserve Security,,,150000.0000,1992
+57,439,AW00000057,260-555-0130,Warehouse,Leading Sales & Repair,84,Q,6,2011,2011,Road,25149 Howard Dr,,3000000.0000,International Bank,1,,300000.0000,1985
+58,432,AW00000058,436-555-0160,Value Added Reseller,Largest Bike Store,7,S,5,2011,2012,Road,63 W Monroe,,300000.0000,International Security,2,,30000.0000,1991
+59,380,AW00000059,385-555-0140,Specialty Bike Shop,Locks Company,43,A,6,2013,2013,Touring,70259 West Sunnyview Ave,,1500000.0000,Primary International,3,600.0000,150000.0000,1984
+60,328,AW00000060,183-555-0111,Warehouse,Main Bicycle Services,85,Q,,,,Road,60750 San Clemente,,3000000.0000,United Security,,,300000.0000,1990
+61,323,AW00000061,452-555-0179,Value Added Reseller,Many Bikes Store,6,S,6,2012,2013,Mountain,Receiving,,300000.0000,Primary Bank & Reserve,1,,30000.0000,1983
+62,569,AW00000062,351-555-0130,Specialty Bike Shop,Manufacturers Inc,42,A,5,2012,2013,Road,Po Box 08050,,1500000.0000,Guardian Bank,2,,150000.0000,1989
+63,495,AW00000063,565-555-0181,Warehouse,Metro Bike Mart,86,Q,5,2011,2013,Mountain,Po Box 2257,,3000000.0000,Reserve Security,3,600.0000,300000.0000,1982
+64,95,AW00000064,290-555-0196,Value Added Reseller,Metal Clearing House,5,S,5,2013,2013,Touring,3255 Front Street West,,300000.0000,International Bank,3,200.0000,30000.0000,1988
+65,99,AW00000065,737-555-0163,Specialty Bike Shop,Metro Manufacturing,41,A,5,2012,2013,Mountain,2550 Signet Drive,,1500000.0000,International Security,2,,150000.0000,1981
+66,48,AW00000066,394-555-0176,Warehouse,Neighborhood Store,87,Q,5,2012,2012,Road,6777 Kingsway,,3000000.0000,Primary International,1,,300000.0000,1987
+67,213,AW00000067,1 (11) 500 555-0127,Value Added Reseller,Self-Contained Cycle Parts Company,4,S,6,2012,2013,Road,"12, rue des Grands Champs",,300000.0000,United Security,,,30000.0000,1980
+68,148,AW00000068,1 (11) 500 555-0184,Specialty Bike Shop,North Bike Company,40,A,5,2013,2013,Road,Auf Der Steige 29,,1500000.0000,Primary Bank & Reserve,1,,150000.0000,1986
+69,6,AW00000069,1 (11) 500 555-0113,Warehouse,Online Bike Catalog,88,Q,6,2013,2013,Touring,65 Epping Rd,,3000000.0000,Guardian Bank,2,,300000.0000,1979
+70,244,AW00000070,1 (11) 500 555-0122,Value Added Reseller,Outdoor Aerobic Systems Company,3,S,2,2013,2013,Road,255 Irving Street,,300000.0000,Reserve Security,3,600.0000,30000.0000,1985
+71,394,AW00000071,513-555-0149,Specialty Bike Shop,Outdoor Distributors,39,A,,,,Mountain,225 Hyde Rd,,1500000.0000,International Bank,,,150000.0000,1978
+72,502,AW00000072,820-555-0166,Warehouse,Outdoor Equipment Store,89,Q,6,2012,2013,Road,6 Cotton Road,,3000000.0000,International Security,1,,300000.0000,1984
+73,630,AW00000073,107-555-0132,Value Added Reseller,Outdoor Sports Supply,2,S,2,2011,2012,Mountain,Great Northwestern,,300000.0000,Primary International,2,,30000.0000,1977
+74,547,AW00000074,162-555-0166,Specialty Bike Shop,Parcel Express Delivery Service,38,A,11,2011,2011,Road,Washington Square,,1500000.0000,United Security,3,600.0000,150000.0000,1983
+75,580,AW00000075,358-555-0188,Warehouse,Paint Supply,90,Q,6,2011,2013,Mountain,Corporate Office,,3000000.0000,Primary Bank & Reserve,3,1000.0000,300000.0000,1976
+76,440,AW00000076,265-555-0190,Value Added Reseller,Out-of-the-Way Hotels,4,S,,,,Mountain,25269 N. Wood Dale Rd,,300000.0000,Guardian Bank,2,,30000.0000,1982
+77,359,AW00000077,128-555-0148,Specialty Bike Shop,Mechanical Products Ltd.,37,A,5,2012,2013,Road,22555 Paseo De Las Americas,,1500000.0000,Reserve Security,1,,150000.0000,1975
+78,349,AW00000078,819-555-0186,Warehouse,Preferred Bikes,91,Q,5,2011,2012,Road,Incom Sports Center,,3000000.0000,International Bank,,,300000.0000,1981
+79,388,AW00000079,996-555-0192,Value Added Reseller,Reasonable Bicycle Sales,6,S,5,2012,2013,Road,"C/O Starpak, Inc.",,300000.0000,International Security,1,,30000.0000,1974
+80,413,AW00000080,581-555-0189,Specialty Bike Shop,Racks and Security Systems,36,A,5,2013,2013,Touring,One Equinox Way,,1500000.0000,Primary International,2,,150000.0000,1980
+81,409,AW00000081,175-555-0198,Warehouse,Rally Day Mall,92,Q,4,2011,2013,Road,2561 Nw 8410th Avenue,,3000000.0000,United Security,3,600.0000,300000.0000,1991
+82,68,AW00000082,814-555-0130,Value Added Reseller,Refined Department Stores,8,S,,,,Road,5250-505 Burning St,,300000.0000,Primary Bank & Reserve,,,30000.0000,1979
+83,88,AW00000083,644-555-0114,Specialty Bike Shop,Requisite Part Supply,35,A,4,2010,2011,Road,600 Slater Street,,1500000.0000,Guardian Bank,1,,150000.0000,1992
+84,78,AW00000084,752-555-0185,Warehouse,Rewarding Activities Company,93,Q,5,2011,2013,Road,25575 The Queensway,,3000000.0000,Reserve Security,2,,300000.0000,1978
+85,216,AW00000085,1 (11) 500 555-0170,Value Added Reseller,Roadway Bicycle Supply,10,S,5,2013,2013,Touring,"121, rue de Varenne",,800000.0000,International Bank,3,600.0000,80000.0000,1974
+86,144,AW00000086,1 (11) 500 555-0163,Specialty Bike Shop,Bicycle Exporters,34,A,4,2012,2013,Touring,Hellweg 4934,,1500000.0000,International Security,3,600.0000,150000.0000,1976
+87,5,AW00000087,1 (11) 500 555-0118,Warehouse,Rich Department Store,94,Q,5,2013,2013,Touring,99 - 6 Orion Road,,3000000.0000,Primary International,2,,300000.0000,1978
+88,260,AW00000088,1 (11) 500 555-0173,Value Added Reseller,Closest Bicycle Store,12,S,6,2013,2013,Mountain,"Garamonde Drive, Wymbush",PO Box 4023,800000.0000,United Security,1,,80000.0000,1980
+89,533,AW00000089,268-555-0184,Specialty Bike Shop,Riverside Company,33,A,5,2012,2013,Road,5998 E Lorain,,1500000.0000,Primary Bank & Reserve,,,150000.0000,1982
+90,602,AW00000090,572-555-0156,Warehouse,Sales and Supply Company,95,Q,6,2012,2013,Road,Corporate Ofc A/p,123 Fourth Ave,3000000.0000,Guardian Bank,1,,300000.0000,1984
+91,536,AW00000091,810-555-0198,Value Added Reseller,Scooters and Bikes Store,14,S,6,2011,2011,Road,258101 Nw Evergreen Parkway,,800000.0000,Reserve Security,2,,80000.0000,1986
+92,647,AW00000092,646-555-0137,Specialty Bike Shop,Sports Commodities,32,A,6,2011,2011,Mountain,253950 N.E. 178th Place,,1500000.0000,International Bank,3,600.0000,150000.0000,1988
+93,590,AW00000093,138-555-0156,Warehouse,Stationary Bikes and Stands,96,Q,6,2011,2011,Road,Sapp Road West,,3000000.0000,International Security,,,300000.0000,1990
+94,579,AW00000094,556-555-0192,Value Added Reseller,Specialty Sports Store,16,S,4,2011,2013,Mountain,52500 Liberty Way,,800000.0000,Primary International,1,,80000.0000,1992
+95,353,AW00000095,716-555-0167,Specialty Bike Shop,Rural Department Store,31,A,4,2012,2013,Touring,5967 W Las Positas Blvd,,1500000.0000,United Security,2,,150000.0000,1994
+96,367,AW00000096,354-555-0130,Warehouse,More Bikes!,97,Q,6,2011,2011,Road,25600 E St Andrews Pl,,3000000.0000,Primary Bank & Reserve,3,600.0000,300000.0000,1996
+97,344,AW00000097,136-555-0134,Value Added Reseller,Mountain Bike Center,18,S,5,2012,2013,Road,6756 Mowry,,800000.0000,Guardian Bank,3,200.0000,80000.0000,1998
+98,409,AW00000098,752-555-0187,Specialty Bike Shop,Superlative Bikes,30,A,6,2012,2013,Mountain,8525 Nw 17th St.,,1500000.0000,Reserve Security,2,,150000.0000,2000
+99,412,AW00000099,296-555-0171,Warehouse,Unified Sports Company,98,Q,5,2011,2013,Mountain,9876 Fruitville Rd,,3000000.0000,International Bank,1,,300000.0000,2002
+100,81,AW00000100,979-555-0163,Value Added Reseller,Up-To-Date Sports,20,S,5,2013,2013,Mountain,2521 McPherson Street,,1000000.0000,International Security,,,100000.0000,2004
+101,96,AW00000101,383-555-0111,Specialty Bike Shop,Urban Sports Emporium,29,A,5,2012,2013,Road,2560 Bay Street,,1000000.0000,Primary International,1,,100000.0000,2005
+102,96,AW00000102,493-555-0134,Warehouse,National Manufacturing,99,Q,5,2011,2012,Road,630 University Avenue,,3000000.0000,United Security,2,,300000.0000,2003
+103,222,AW00000103,1 (11) 500 555-0131,Value Added Reseller,The Bike Outlet,19,S,5,2013,2013,Touring,"22, rue du D‚part",,800000.0000,Primary Bank & Reserve,3,600.0000,80000.0000,2004

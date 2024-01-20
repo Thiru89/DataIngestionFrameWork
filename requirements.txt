@@ -1,2 +1,5 @@
 python-dotenv
 azure-storage-blob
+azure-storage-file-datalake
+pyodbc
+tabulate
