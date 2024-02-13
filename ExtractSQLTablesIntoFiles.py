@@ -89,6 +89,7 @@ def export_table_names_to_csv(table_names, directory_dest,sql_server, sql_databa
 # Get table names from Information Schema
 table_names_list = get_table_names(sql_server, sql_database, sql_username, sql_password, tbl_string)
 # write the each table data into the file
+
 export_table_names_to_csv(table_names_list,directory_dest,sql_server, sql_database, sql_username, sql_password)
 # upload the files to the ADLS
 

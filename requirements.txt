@@ -3,3 +3,6 @@ azure-storage-blob
 azure-storage-file-datalake
 pyodbc
 tabulate
+azure.mgmt.datafactory
+azure.identity
+azure.keyvault
