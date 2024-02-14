@@ -14,8 +14,8 @@ data_factory_name = os.environ.get("data_factory_name")
 
 
 def create_pipeline(data_factory_name, resource_group_name, pipeline_name, activities):
-    # Use DefaultAzureCredential to authenticate
-    # Create a Service Principal credential
+
+    # Create a Service Principal credential  to authenticate
     credential = ClientSecretCredential(
     tenant_id=tenant_id,
     client_id=client_id,
