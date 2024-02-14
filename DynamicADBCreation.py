@@ -2,7 +2,7 @@ import json
 import requests
 import base64
 # Databricks workspace URL
-databricks_url = "https://adb-6975897661226333.13.azuredatabricks.net"
+databricks_url = ""
 
 # Databricks REST API endpoint to create a new notebook
 create_notebook_endpoint = "/api/2.0/workspace/import"
@@ -11,7 +11,7 @@ create_notebook_endpoint = "/api/2.0/workspace/import"
 run_endpoint = "/api/2.0/jobs/runs/submit"
 
 # Databricks access token
-token = "dapi55107f4150f7d6c0580e5bbbff900e27-3"
+token = ""
 
 # Example JSON object with SQL code
 json_data = '{"sql_code": "INSERT INTO democatalog.demoschema.test values (3,'')"}'
@@ -57,7 +57,7 @@ notebook_path ='/Workspace/Shared/test_1/sample'
 # Payload to run the notebook
 run_notebook_payload = {
     "run_name": "MyRun",
-    "existing_cluster_id": "0101-165609-yxj3in2s",  # Use an existing cluster or create one dynamically
+    "existing_cluster_id": "",  # Use an existing cluster or create one dynamically
     "notebook_task": {"notebook_path": notebook_path}
     
 }
